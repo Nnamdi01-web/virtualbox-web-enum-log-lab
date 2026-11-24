@@ -87,11 +87,10 @@ Result:
 192.168.56.104 - - [23/Nov/2026:16:24:58 +0100] "GET /index.html HTTP/1.1" 200 3404 "-" "gobuster/3.8"
 192.168.56.104 - - [23/Nov/2026:16:24:58 +0100] "GET /server-status HTTP/1.1" 403 440 "-" "gobuster/3.8"
 
-![Ubuntu Ping and Listening Ports](ubuntu-ping-ss.png)
-![Kali Gobuster Scan](kali-gobuster.png)<img width="1200" height="896" alt="ubuntu-ping-ss png" src="https://github.com/user-attachments/assets/f6b6d575-35dd-4945-ab21-353416f7ea0c" />
+
+<img width="1200" height="896" alt="ubuntu-ping-ss png" src="https://github.com/user-attachments/assets/f6b6d575-35dd-4945-ab21-353416f7ea0c" />
 <img width="1200" height="896" alt="ubuntu-access-log png" src="https://github.com/user-attachments/assets/daa1c11e-1d91-4c49-9f52-7f7bf5eb6c99" />
 <img width="1200" height="896" alt="gobuster v3 8" src="https://github.com/user-attachments/assets/16b0bdca-1410-42e4-9671-6f69043087d0" />
 
-![Ubuntu Apache Access Log](ubuntu-access-log.png)
 
 
