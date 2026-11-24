@@ -4,11 +4,11 @@
 
 <img width="1200" height="896" alt="ubuntu-access-log png" src="https://github.com/user-attachments/assets/284f0fcc-b738-4ceb-981b-936a482cc2ac" />
 
-**2. Kali Gobuster Scan**
+**2. Ubuntu Apache Access Log**
 
 <img width="1200" height="896" alt="gobuster v3 8" src="https://github.com/user-attachments/assets/00d51578-3bb0-4ad1-8a43-afde56b147ee" />
 
-**3. Ubuntu Apache Access Log**
+**3. Kali Gobuster Scan**
 
 
 # VirtualBox Lab: Host-Only Recon, Web Enumeration & Apache Log Analysis
