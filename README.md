@@ -1,3 +1,6 @@
+<img width="1200" height="896" alt="ubuntu-ping-ss png" src="https://github.com/user-attachments/assets/ef556f77-96e0-4a30-a9bd-08bd19bcf713" />
+<img width="1200" height="896" alt="ubuntu-access-log png" src="https://github.com/user-attachments/assets/284f0fcc-b738-4ceb-981b-936a482cc2ac" />
+<img width="1200" height="896" alt="gobuster v3 8" src="https://github.com/user-attachments/assets/00d51578-3bb0-4ad1-8a43-afde56b147ee" />
 # VirtualBox Lab: Host-Only Recon, Web Enumeration & Apache Log Analysis
 
 ## Overview
@@ -88,9 +91,7 @@ Result:
 192.168.56.104 - - [23/Nov/2026:16:24:58 +0100] "GET /server-status HTTP/1.1" 403 440 "-" "gobuster/3.8"
 
 
-<img width="1200" height="896" alt="ubuntu-ping-ss png" src="https://github.com/user-attachments/assets/f6b6d575-35dd-4945-ab21-353416f7ea0c" />
-<img width="1200" height="896" alt="ubuntu-access-log png" src="https://github.com/user-attachments/assets/daa1c11e-1d91-4c49-9f52-7f7bf5eb6c99" />
-<img width="1200" height="896" alt="gobuster v3 8" src="https://github.com/user-attachments/assets/16b0bdca-1410-42e4-9671-6f69043087d0" />
+
 
 
 
