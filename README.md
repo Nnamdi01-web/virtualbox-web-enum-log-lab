@@ -1,6 +1,16 @@
 <img width="1200" height="896" alt="ubuntu-ping-ss png" src="https://github.com/user-attachments/assets/ef556f77-96e0-4a30-a9bd-08bd19bcf713" />
+
+**1. Ubuntu Ping & Listening Ports**
+
 <img width="1200" height="896" alt="ubuntu-access-log png" src="https://github.com/user-attachments/assets/284f0fcc-b738-4ceb-981b-936a482cc2ac" />
+
+**2. Kali Gobuster Scan**
+
 <img width="1200" height="896" alt="gobuster v3 8" src="https://github.com/user-attachments/assets/00d51578-3bb0-4ad1-8a43-afde56b147ee" />
+
+**3. Ubuntu Apache Access Log**
+
+
 # VirtualBox Lab: Host-Only Recon, Web Enumeration & Apache Log Analysis
 
 ## Overview
